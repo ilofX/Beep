@@ -14,8 +14,7 @@
  * limitations under the License.
  */
 
-/**
- *
+/*
  * @author Stella Filippo
  * @author Cecconato Filippo
  * @version 0.1
